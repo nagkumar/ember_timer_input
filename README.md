@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/ember-bootstrap-datetimepicker
+https://github.com/plusacht/ember-bootstrap-datetimepicker
 Use : ember install ember-bootstrap-datetimepicker
 http://plusacht.github.io/ember-bootstrap-datetimepicker/#example4
 
